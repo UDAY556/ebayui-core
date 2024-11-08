@@ -1,0 +1,11 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "@ebay/ebayui-core": "14.4.1"
+  },
+  "changesets": [
+    "plenty-drinks-sniff",
+    "plenty-tips-perform"
+  ]
+}

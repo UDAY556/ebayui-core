@@ -1,5 +1,15 @@
 # eBayUI-Core Changelog
 
+## 14.5.0-next.0
+
+### Minor Changes
+
+- [#2319](https://github.com/eBay/ebayui-core/pull/2319) [`a41ae29`](https://github.com/eBay/ebayui-core/commit/a41ae2928ea9301a6bda8ca5dbce835519777b99) Thanks [@saiponnada](https://github.com/saiponnada)! - feat(carousel): respect reduced-motion during autoplay
+
+### Patch Changes
+
+- [#2312](https://github.com/eBay/ebayui-core/pull/2312) [`c006353`](https://github.com/eBay/ebayui-core/commit/c00635390b9c302cce10135d2f59b6a22c298019) Thanks [@mikehobi](https://github.com/mikehobi)! - refactor(storybook/examples): fully migrate stories and examples to typescript
+
 ## 14.4.1
 
 ### Patch Changes
